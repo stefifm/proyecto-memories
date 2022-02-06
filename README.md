@@ -2,7 +2,7 @@
 Recreate the project from JavaScript Mastery
 GitHub Code (feel free to give it a star ⭐): https://github.com/adrianhajdin/project_mern_memories
 
-# (Almost) final project: https://remember-stefifm.netlify.app/posts
+- (Almost) final project: https://remember-stefifm.netlify.app
 
 # Preview
 
