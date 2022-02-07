@@ -28,3 +28,6 @@ Google Login stop working after the deploy. I tried everything that said from th
 
 # Languages
 - Javascript
+
+# UPDATE
+Finally, the Google Login works!!!! I don't know the reasons behind of it. It looks like you have to wait a little bit until the changes on the Google Console makes effect. 
